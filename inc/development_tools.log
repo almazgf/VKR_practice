@@ -1,0 +1,92 @@
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.3.7)  16 MAR 2021 03:20
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**development_tools.tex
+(./development_tools.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+! Undefined control sequence.
+l.1 \section
+            {Анализ инструментов разработки}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \section{А
+              нализ инструментов разработки}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no А in font nullfont!
+Missing character: There is no н in font nullfont!
+Missing character: There is no а in font nullfont!
+Missing character: There is no л in font nullfont!
+Missing character: There is no и in font nullfont!
+Missing character: There is no з in font nullfont!
+Missing character: There is no и in font nullfont!
+Missing character: There is no н in font nullfont!
+Missing character: There is no с in font nullfont!
+Missing character: There is no т in font nullfont!
+Missing character: There is no р in font nullfont!
+Missing character: There is no у in font nullfont!
+Missing character: There is no м in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no н in font nullfont!
+Missing character: There is no т in font nullfont!
+Missing character: There is no о in font nullfont!
+Missing character: There is no в in font nullfont!
+Missing character: There is no р in font nullfont!
+Missing character: There is no а in font nullfont!
+Missing character: There is no з in font nullfont!
+Missing character: There is no р in font nullfont!
+Missing character: There is no а in font nullfont!
+Missing character: There is no б in font nullfont!
+Missing character: There is no о in font nullfont!
+Missing character: There is no т in font nullfont!
+Missing character: There is no к in font nullfont!
+Missing character: There is no и in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--2
+[]
+ []
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 \clearpage
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1])
+! Emergency stop.
+<*> development_tools.tex
+                         
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 20 strings out of 481804
+ 449 string characters out of 5937877
+ 238532 words of memory out of 5000000
+ 17111 multiletter control sequences out of 15000+600000
+ 532346 words of font info for 25 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 17i,4n,15p,93b,96s stack positions out of 5000i,500n,10000p,200000b,80000s
+Output written on development_tools.pdf (1 page).

@@ -1,0 +1,19 @@
+\begin{enumerate}
+	\item id -- уникальный идентификатор продукта;
+	\item name -- название продукта;
+	\item barcode -- штрих-код продукта;
+	\item composition -- состав продукта;
+	\item comment -- комментарии к продукту;
+	\item gost -- номер ГОСТ-стандарта;
+	\item net mass -- масса-нетто продукта;
+	\item keeping time -- срок годности;
+	\item storage conditions -- условия хранения;
+	\item esl -- пищевая ценность продукта. Содержит вложенный объект:
+	\begin{enumerate}
+		\item protein -- количество белков на 100 грамм продукта;
+		\item fats -- количество жиров на 100 грамм продукта;
+		\item carbohydrates -- количество углеводов на 100 грамм продукта;
+		\item calorie -- количество калорий на 100 грамм продукта;
+	\end{enumerate}
+	\item packing type -- тип упаковки;
+\end{enumerate}

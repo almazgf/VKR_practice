@@ -1,0 +1,23 @@
+\documentclass[a4paper,14pt]{extarticle} % 14й шрифт
+\input{inc/preamble}
+
+%%% Начало документа
+
+ 
+
+
+\begin{document}
+\includepdf[pages={1,2}]{images/title.pdf}
+\tableofcontents % Содержание 
+\thispagestyle{empty}
+\clearpage
+\input{inc/intro}
+\input{inc/requirements_specification}
+\clearpage
+\include{inc/development_tools}
+\input{inc/design}
+\input{inc/development}
+\input{inc/conclusion}
+\input{inc/bibliography}
+\input{inc/appA}
+\end{document}
